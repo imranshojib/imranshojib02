@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+	.container{
+		width: 90%;	
+	}
+
+	.top-header .left span{
+		margin-right: 0px;
+	}
+	.top-header .left a{
+		margin: 0 6px;
+	}
+
+	.b-content h1 {
+    	font-size: 48px;
+	}
+
+	.b-content p {
+    	font-size: 12px;
+	}
+	.text-center{
+	display: block;
+    justify-content: space-between;
+    }
+
+    .form-style{
+    	margin-bottom: 10px;
+    }
+
+    #event-slider .owl-nav{
+    	display: none;
+    }
+
+    .feedback-title h2 {
+    	font-size: 26px;
+    }
+
+    .place-review{
+    	margin-bottom: 20px;
+    }
+
+    .offered-details p{
+    	margin-bottom: 40px;
+    }
+
+    .f-content-left {
+    	border-bottom: 1px solid #ffffff3b;
+    	margin-bottom: 20px;
+    }
+
+    .f-content-middle {
+    	border-bottom: 1px solid #ffffff3b;
+    	margin-bottom: 20px;
+    }
+
+}
